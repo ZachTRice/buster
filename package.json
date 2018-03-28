@@ -65,7 +65,7 @@
   },
   "devDependencies": {
     "buster-amd": "0.3.x",
-    "buster-html-doc": "2.x",
+    "buster-html-doc": "git+https://git@github.com/ZachTRice/buster-html-doc.git",
     "phantomjs-prebuilt": "1.x",
     "uglify-js": "2.x"
   }
